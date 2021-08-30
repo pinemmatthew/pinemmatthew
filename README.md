@@ -1,6 +1,6 @@
-### Hi there 👋
+
 ### Hi there 👋, Matthew 
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 I am a Earth Scientist. An Engineer. Nerd. 
 
@@ -11,6 +11,7 @@ I am a Earth Scientist. An Engineer. Nerd.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinemmatthew)](https://github.com/anuraghazra/github-readme-stats)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinemmatthew&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinemmatthew)](https://github.com/anuraghazra/github-readme-stats)
