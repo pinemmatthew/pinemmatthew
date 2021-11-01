@@ -1,5 +1,5 @@
 <!--START_SECTION:update_image-->
-[!github](C:\Users\matth\Desktop\GIMP)
+[!github](C:\Users\matth\Pictures)
 <!--END_SECTION:update_image-->
 
 
