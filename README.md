@@ -1,4 +1,4 @@
-![](https://pbs.twimg.com/profile_banners/1402391352223141896/1635767418/600x200)
+
 
 Hello World! My name is Matthew Pine, I am currently working as an AmeriCorps VISTA Member to bridge the digital divide in the city of Houston and the Greater Houston area. I am passionate about the Earth Sciences, enviromental justice, health literacy, adult education, and how these topics intersect with each other. On the side I like to write and develop software programs, in addition to develop scientific equipment for Geologists, and other researchers. For fun I love listening to music and watching video essays.   
 
